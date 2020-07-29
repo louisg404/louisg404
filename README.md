@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-🧑 I'm Louis, french front-end developer, runner and road cyclist.
-💫 Lover of minimalist design.
-👨‍💻 Currently in professionalization contract to @GroupeSigma.
+🧑 I'm Louis, french front-end developer, runner and road cyclist.&nbsp;
+💫 Lover of minimalist design.&nbsp;
+👨‍💻 Currently in professionalization contract to @GroupeSigma.&nbsp;
